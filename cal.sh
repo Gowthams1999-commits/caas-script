@@ -10,3 +10,6 @@ echo "sub: $c"
 echo "multiple"
 c=$a*$b
 echo "multiplication:$c"
+echo "division"
+c=$a/$b
+echo "division:$c"
