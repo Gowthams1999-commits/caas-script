@@ -1,0 +1,4 @@
+echo "zabix rule"
+echo "install zabbix in all the server"
+eho "do the configuration"
+echo "restart the service"
