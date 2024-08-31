@@ -7,3 +7,6 @@ echo "addition: $c"
 echo "ubtract"
 c=$a-$b
 echo "sub: $c"
+echo "multiple"
+c=$a*$b
+echo "multiplication:$c"
